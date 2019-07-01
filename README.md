@@ -43,9 +43,11 @@ Framework Architecture
 		|	|_userStepDefinition
 		|	|	|_StepDefinitions.java
 		|	|	|...
-		|_src/test/resources
+		|_src/test/resource
 		|	|_functionslTests
 		|	|	|_BorrowTest.feature
+		|	|_testDataResource
+		|	|	|_Data.json
 
 
 Predefined steps
